@@ -48,7 +48,7 @@ $ python main.py -s 5
 2022-02-16T20:22:16.462020878+08:00 INFO  shadowsocks local 1.13.2 build 2022-02-16T09:35:29.655779693+00:00
  2022-02-16 20:22:16 [simple-obfs] INFO: obfuscating enabled
  2022-02-16 20:22:16 [simple-obfs] INFO: obfuscation http method: GET
- 2022-02-16 20:22:16 [simple-obfs] INFO: obfuscating hostname: 64717e7460736d2833627b7d.sina.cn
+ 2022-02-16 20:22:16 [simple-obfs] INFO: obfuscating hostname: test.com
  2022-02-16 20:22:16 [simple-obfs] INFO: tcp port reuse enabled
  2022-02-16 20:22:16 [simple-obfs] INFO: listening at 127.0.0.1:35111
 2022-02-16T20:22:16.471908290+08:00 INFO  shadowsocks socks TCP listening on 127.0.0.1:1089
